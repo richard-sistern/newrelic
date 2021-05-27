@@ -4,6 +4,8 @@
 
 ![problem-solving](./assets/problem-solving.png)
 
+![problem-solving-with-feature-monitoring](./assets/problem-solving-with-feature-monitoring.png)
+
 > Have you seen any pushback on this approach from teams or executives? I'm sure those who get to sleep through the night would be happy, but I imagine some stakeholders and executives might be nervous at the thought of people dealing with issues in the morning instead of on the spot.
 
 The main place of pushback I have seen is in the initial adoption of feature flags, in part due to the extra step in the process incurred in wrapping the code in the flag. However, as individuals see the benefits of safely and securely releasing features and not having to worry about rollbacks, those worries usually go away. With feature monitoring, you are actually treating the issue as it impacts customers on the spot, by manually or automatically disabling the feature. Remediation occurs faster - keeping stakeholders happy; and because fixes are then implemented at a time without the pressure and rush they are typically of higher quality and avoid the risk of sloppy mistakes.
